@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ClemensSMP.aternos.me",
+    "ip": "ClemensSMP.aternos.me:45226",
     "port": "45226",
     "version": "",
     "try-creative": false
