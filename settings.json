@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ClemensSMP.aternos.me",
-    "port": "45226",
+    "port": 45226,
     "version": "",
     "try-creative": false
   },
